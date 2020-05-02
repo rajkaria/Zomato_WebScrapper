@@ -5,7 +5,7 @@ Web scraping in Python with Beautiful Soup
 
 **Zomato_API**:
 
-API endpoint provided by Zomato has been used to get details about restaurants in Bangalore. You can get the details of up to 100 restaurants using this endpoint. The details obtained:
+API endpoint provided by Zomato has been used to get details about restaurants in Ahmedabad. You can get the details of up to 100 restaurants using this endpoint. The details obtained:
 * Restaurant ID
 * Restaurant Name
 * Locality
